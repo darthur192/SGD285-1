@@ -49,7 +49,7 @@ public class SGD285_1
 	       new UserQuote("Jonny Westfall", "No one will ever get what they want, and that is beautiful. - They Might Be Giants"),
            new UserQuote("Joseph Flanagan", "'Do. Or do not. There is no try.' -Yoda"), // I love this quote//
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
-           new UserQuote("Mayra Orlando", "Problems are not stop signs, they are guidelines.- Robert H. Schiuller"),
+           new UserQuote("Mayra Orlando", "Problems are not stop signs, they are guidelines.- Robert H. Schiuller"),/* I really like this -Daniel Arthur */
            new UserQuote("Forrest Wilkerson", "You miss 100% of the shots you never take- Wayne Gretzky"), /* I live by this quote everyday */
            new UserQuote("Hannah Sprinkle", "There are no happy endings, endings are the saddest part. So just give me a happy middle and a very happy start. -Shel Silverstein"),
            new UserQuote("Evy Kollstrand", "You never know until you know, you know"), /* This is so true */
